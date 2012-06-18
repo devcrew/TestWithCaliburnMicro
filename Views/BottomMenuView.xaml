@@ -1,0 +1,8 @@
+<UserControl x:Class="TestWithCaliburnMicro.Views.BottomMenuView"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:cal="clr-namespace:Caliburn.Micro;assembly=Caliburn.Micro">
+	<Grid Background="Fuchsia">
+		<Label>Bottom Menu View</Label>
+	</Grid>
+</UserControl>

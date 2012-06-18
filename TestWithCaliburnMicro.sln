@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.0.8783
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWithCaliburnMicro", "TestWithCaliburnMicro.csproj", "{555FA771-E4E6-4FFD-B8D7-C53BEBB52095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555FA771-E4E6-4FFD-B8D7-C53BEBB52095}.Debug|x86.Build.0 = Debug|x86
+		{555FA771-E4E6-4FFD-B8D7-C53BEBB52095}.Debug|x86.ActiveCfg = Debug|x86
+		{555FA771-E4E6-4FFD-B8D7-C53BEBB52095}.Release|x86.Build.0 = Release|x86
+		{555FA771-E4E6-4FFD-B8D7-C53BEBB52095}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
